@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<page version="2.0">
+    <title protocol="wap java">Комфортность условий в помещении, в котором предоставлена государственная услуга</title>
+    <div>
+        Оцените уровень комфорта при посещении ведомства (наличие сидячих мест,, столов для заполнения документов, бланков, ручек, образцов заполнения, просторность и комфортность помещений и т. п.)
+    </div>
+    <navigation>
+        <link accesskey="1" pageId="e01.xml">>Очень плохо
+        </link>
+        <link accesskey="2" pageId="e01.xml">Плохо
+        </link>
+        <link accesskey="3" pageId="e01.xml">Нормально
+        </link>
+        <link accesskey="4" pageId="e01.xml">Хорошо
+        </link>
+        <link accesskey="5" pageId="e01.xml">Отлично
+        </link>
+    </navigation>
+</page>
