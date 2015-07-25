@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <page version="2.0">
     <title protocol="java wap">QAService</title>
+    <div> Добро пожаловать в сервис контроля качества. </div>
     <navigation>
-        <link accesskey="1" pageId="a01.xml" protocol="ussd">Welcome to QAService
+        <link accesskey="1" pageId="input_office.php" protocol="ussd">Вперед
         </link>
     </navigation>
 </page>
